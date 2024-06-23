@@ -1,11 +1,13 @@
 # 软件官网大黄页 Offical Websites of Softwares
 
 -   _请查看[tobe_sorted.md](/tobe/tobe_sorted.md) 以贡献新名录 / check [tobe_sorted.md](/tobe/tobe_sorted.md) for adding new entries_
-<!-- ### 软件名称 : 官网/项目首页链接
+<!-- ### {软件名称}
 
-一句话描述软件的功能（! 请默认找到软件名称的用户知道该软件的功能，这里仅供用户核查使用）
+{一句话描述软件的功能}（! 请默认找到软件名称的用户知道该软件的功能，这里仅供用户核查使用）
 
-平台 : 下载直链 （[版本号] 提交日期） -->
+官网: {官网/项目首页链接}
+
+下载页面: {平台} : {下载直链} {([版本号(如可用)] 提交日期)} -->
 
 -   _如果你想知道其他软件，请提交 Issues / For new entries request, please file a new Issue_
 
@@ -27,14 +29,18 @@
 
 # 链接
 
-### OBS: https://obsproject.com/
+### OBS
 
 一款开源的视频录制和直播软件。
 
-Windows/macOS/Linux: `https://obsproject.com/download` ([30.1.2] 2024/06/23)
+官网: https://obsproject.com/
 
-### Steam: https://store.steampowered.com/
+下载页面: Windows/macOS/Linux: `https://obsproject.com/download` ([30.1.2] 2024/06/23)
+
+### Steam
 
 一个由 Valve 开发的游戏平台。
 
-Windows: `https://store.steampowered.com/about/` ([-] 2024/06/23)
+官网: https://store.steampowered.com/
+
+下载页面: Windows: `https://store.steampowered.com/about/` ([-] 2024/06/23)
