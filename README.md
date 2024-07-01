@@ -1,13 +1,17 @@
 # 软件官网大黄页 Offical Websites of Softwares
 
 -   _请查看[tobe_sorted.md](/tobe/tobe_sorted.md) 以贡献新名录 / check [tobe_sorted.md](/tobe/tobe_sorted.md) for adding new entries_
-<!-- ### {软件名称}
+<!-- 
+
+### {软件名称}
 
 {一句话描述软件的功能}（! 请默认找到软件名称的用户知道该软件的功能，这里仅供用户核查使用）
 
 官网: {官网/项目首页链接}
 
-下载页面: {平台} : {下载直链} {([版本号(如可用)] 提交日期)} -->
+下载页面: {平台} : {下载直链} {([版本号(如可用)] 提交日期)}
+
+-->
 
 -   _如果你想知道其他软件，请提交 Issues / For new entries request, please file a new Issue_
 
@@ -25,6 +29,8 @@
     -   S
         -   [Steam](#Steam)
 -   音乐/视频
+    -   P
+        -   [PotPlayer](#PotPlayer)
 -   阅读/写作
 
 # 链接
@@ -44,3 +50,11 @@
 官网: https://store.steampowered.com/
 
 下载页面: Windows: `https://store.steampowered.com/about/` ([-] 2024/06/23)
+
+### PotPlayer
+
+一个强大的视频播放器。
+
+官网: https://potplayer.daum.net/
+
+下载页面: --- ([-] 2024/06/23)
